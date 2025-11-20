@@ -8,10 +8,10 @@ This custom theme brings the Mordio brand colors (mint turquoise & lavender purp
 
 ## 🎨 Theme Features
 
-- **Brand Colors Throughout:** Mint turquoise (#88bbb6) and lavender purple (#aa9cb8) across all UI elements
+- **My Favorite Colors Throughout:** Mint turquoise (#88bbb6) and lavender purple (#aa9cb8) across all UI elements
 - **Optimized VU Meters:** Beautiful progression from purple → turquoise → white (only red when clipping)
 - **Enhanced Contrast:** Improved readability for clip names and waveforms
-- **Consistent Design:** All buttons, alerts, and controls use Mordio brand colors
+- **Consistent Design:** All buttons, alerts, and controls use these colors consistently
 - **Dark & Professional:** Perfect for long studio sessions
 
 ---
@@ -153,14 +153,12 @@ If you have any issues installing or using the theme:
 1. Check this guide again carefully
 2. Reach out on **Patreon** (in the comments)
 3. Tag me on **Discord** in the theme channel
-4. Send me a message on **Instagram** (@mordiomusic)
 
 ---
 
 ## ⚠️ Important Notes
 
-- This theme is **exclusive to Mordio Patreon supporters** (all tiers)
-- Please **do not redistribute** or share publicly
+- Please **do not redistribute** or share publicly - this is a gift for supporters
 - The theme is designed for **Ableton Live 12** - compatibility with older versions is not guaranteed
 - Always keep a backup of the original Ableton themes in case you want to revert
 
@@ -168,7 +166,7 @@ If you have any issues installing or using the theme:
 
 ## 🎵 Enjoy Your Studio Sessions!
 
-Thank you for supporting Mordio! This theme is crafted to make your production sessions more inspiring and visually cohesive with the Mordio universe.
+Thank you for supporting me! This theme was a fun little project, and I hope it makes your studio sessions a bit more enjoyable.
 
 Now go make some music! 🚀
 

@@ -4,9 +4,9 @@
 ![Ableton](https://img.shields.io/badge/Ableton%20Live-12-aa9cb8)
 ![Status](https://img.shields.io/badge/status-stable-success)
 
-**Official Mordio Studio Theme for Ableton Live 12**
+**Mordio Studio Theme for Ableton Live 12**
 
-A custom Ableton theme built from scratch with the signature Mordio brand colors (mint turquoise & lavender purple), optimized VU meters, enhanced contrast, and a stable, glitch-free experience.
+A custom Ableton theme built from scratch with my favorite colors (mint turquoise & lavender purple), optimized VU meters, enhanced contrast, and a stable, glitch-free experience.
 
 ---
 
@@ -18,11 +18,11 @@ A custom Ableton theme built from scratch with the signature Mordio brand colors
 
 ## ✨ Features
 
-- **Brand Colors Throughout** - Signature Mordio mint turquoise (#88bbb6) and lavender purple (#aa9cb8) across all UI elements
+- **My Favorite Colors Throughout** - Mint turquoise (#88bbb6) and lavender purple (#aa9cb8) across all UI elements
 - **Optimized VU Meters** - Beautiful color progression: Purple → Turquoise → White (peak) → Red (clipping only)
 - **Enhanced Contrast** - High readability for long studio sessions, no more transparent buttons
 - **Stable & Tested** - Version 1.0 - no glitches, no color jumping, everything works
-- **Consistent Design** - All buttons, alerts, and controls use Mordio brand colors
+- **Consistent Design** - All buttons, alerts, and controls use these colors consistently
 
 ---
 
@@ -92,25 +92,22 @@ If you have issues installing or using the theme:
 
 1. Check the [INSTALLATION_GUIDE.md](INSTALLATION_GUIDE.md)
 2. Open an [Issue](../../issues) on GitHub
-3. Reach out on Discord (Supporter Area)
-4. Contact via [Instagram](https://instagram.com/mordiomusic)
+3. Reach out on [Discord](https://discord.gg/mordiomusic) (Supporter Area)
 
 ---
 
 ## ⚠️ Important
 
-- This theme is **exclusive to Mordio Patreon supporters**
-- Available for everyone who has supported at least once
-- Please **do not redistribute** or share publicly
+- Please **do not redistribute** or share publicly - this is a gift for supporters
 - Designed for **Ableton Live 12** - older versions not guaranteed to work
 
 ---
 
 ## 🎵 About
 
-Created by **Florian (Mordio)** for the Mordio community.
+This was my first fun little coding project. Whenever I had some free time to chill, I'd tinker with it a bit, experiment with colors and UI elements, and with the help of AI, I managed to make it actually work properly.
 
-After many requests and hours of coding (including fixing those fun glitches where buttons became invisible), this is the culmination of that work. It's not perfect, but it's stable, tested, and ready to use.
+It started as a small experiment and turned into a little gift for the people who support me. Hope you enjoy it!
 
 Thank you for supporting the music, the content, and this journey. 🙏
 
@@ -118,9 +115,7 @@ Thank you for supporting the music, the content, and this journey. 🙏
 
 ## 📜 License
 
-This theme is proprietary and exclusive to Mordio Patreon supporters. All rights reserved.
-
-Not licensed for public distribution or commercial use outside the Mordio community.
+It's yours, you have the file. But please don't share it randomly with everyone - that would be nice of you. 🙏
 
 ---
 
