@@ -10,13 +10,13 @@ A custom Ableton theme built from scratch with my favorite colors (mint turquois
 
 ---
 
-## 🎨 Preview
+## Preview
 
-*[Screenshot coming soon - upload your Ableton with the theme loaded]*
+![Ableton Theme Screenshot](preview.png)
 
 ---
 
-## ✨ Features
+## Features
 
 - **My Favorite Colors Throughout** - Mint turquoise (#88bbb6) and lavender purple (#aa9cb8) across all UI elements
 - **Optimized VU Meters** - Beautiful color progression: Purple → Turquoise → White (peak) → Red (clipping only)
@@ -26,14 +26,14 @@ A custom Ableton theme built from scratch with my favorite colors (mint turquois
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 - **Ableton Live 12** (Intro, Standard, or Suite)
 - **macOS or Windows**
 
 ---
 
-## 📥 Installation
+## Installation
 
 ### Quick Install
 
@@ -64,7 +64,7 @@ A custom Ableton theme built from scratch with my favorite colors (mint turquois
 
 ---
 
-## 🎨 Color Palette
+## Color Palette
 
 | Color | Hex | Usage |
 |-------|-----|-------|
@@ -78,7 +78,7 @@ A custom Ableton theme built from scratch with my favorite colors (mint turquois
 
 ---
 
-## 🔄 Updates
+## Updates
 
 This is version 1.0 - stable and ready to use.
 
@@ -86,36 +86,35 @@ If updates or improvements are released, they will appear in [Releases](../../re
 
 ---
 
-## ❓ Support
+## Support
 
 If you have issues installing or using the theme:
 
 1. Check the [INSTALLATION_GUIDE.md](INSTALLATION_GUIDE.md)
 2. Open an [Issue](../../issues) on GitHub
-3. Reach out on [Discord](https://discord.gg/mordiomusic) (Supporter Area)
 
 ---
 
-## ⚠️ Important
+## Important
 
 - Please **do not redistribute** or share publicly - this is a gift for supporters
 - Designed for **Ableton Live 12** - older versions not guaranteed to work
 
 ---
 
-## 🎵 About
+## About
 
 This was my first fun little coding project. Whenever I had some free time to chill, I'd tinker with it a bit, experiment with colors and UI elements, and with the help of AI, I managed to make it actually work properly.
 
 It started as a small experiment and turned into a little gift for the people who support me. Hope you enjoy it!
 
-Thank you for supporting the music, the content, and this journey. 🙏
+Thank you for supporting the music, the content, and this journey.
 
 ---
 
-## 📜 License
+## License
 
-It's yours, you have the file. But please don't share it randomly with everyone - that would be nice of you. 🙏
+It's yours, you have the file. But please don't share it randomly with everyone - that would be nice of you.
 
 ---
 

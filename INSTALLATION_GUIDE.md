@@ -6,7 +6,7 @@ This custom theme brings the Mordio brand colors (mint turquoise & lavender purp
 
 ---
 
-## 🎨 Theme Features
+## Theme Features
 
 - **My Favorite Colors Throughout:** Mint turquoise (#88bbb6) and lavender purple (#aa9cb8) across all UI elements
 - **Optimized VU Meters:** Beautiful progression from purple → turquoise → white (only red when clipping)
@@ -16,7 +16,7 @@ This custom theme brings the Mordio brand colors (mint turquoise & lavender purp
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 - **Ableton Live 12** (any edition: Intro, Standard, Suite)
 - **macOS or Windows**
@@ -24,7 +24,7 @@ This custom theme brings the Mordio brand colors (mint turquoise & lavender purp
 
 ---
 
-## 🔧 Installation Instructions
+## Installation Instructions
 
 ### Method 1: Quick Install (Recommended)
 
@@ -85,7 +85,7 @@ Then follow steps 3-6 from Method 1.
 
 ---
 
-## 🔄 Updating the Theme
+## Updating the Theme
 
 If a new version is released:
 
@@ -96,7 +96,7 @@ If a new version is released:
 
 ---
 
-## ❓ Troubleshooting
+## Troubleshooting
 
 ### Theme doesn't appear in the dropdown
 
@@ -119,7 +119,7 @@ If a new version is released:
 
 ---
 
-## 🎨 Color Palette Reference
+## Color Palette Reference
 
 **Primary Colors:**
 - Mint Turquoise: `#88bbb6` - Highlights, active elements, VU meters (mid-range)
@@ -136,7 +136,7 @@ If a new version is released:
 
 ---
 
-## 💡 Tips for Best Experience
+## Tips for Best Experience
 
 - **VU Meters:** Watch them go from purple (low) → turquoise (medium) → white (loud) → red (clipping)
 - **Arm Buttons:** Now turquoise instead of red - matches the Mordio brand
@@ -146,7 +146,7 @@ If a new version is released:
 
 ---
 
-## 🆘 Support
+## Support
 
 If you have any issues installing or using the theme:
 
@@ -156,7 +156,7 @@ If you have any issues installing or using the theme:
 
 ---
 
-## ⚠️ Important Notes
+## Important Notes
 
 - Please **do not redistribute** or share publicly - this is a gift for supporters
 - The theme is designed for **Ableton Live 12** - compatibility with older versions is not guaranteed
@@ -164,11 +164,11 @@ If you have any issues installing or using the theme:
 
 ---
 
-## 🎵 Enjoy Your Studio Sessions!
+## Enjoy Your Studio Sessions!
 
 Thank you for supporting me! This theme was a fun little project, and I hope it makes your studio sessions a bit more enjoyable.
 
-Now go make some music! 🚀
+Now go make some music!
 
 ---
 
