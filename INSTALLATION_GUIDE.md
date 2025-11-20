@@ -1,0 +1,179 @@
+# Mordio Studio Theme - Installation Guide
+
+**Welcome to the Mordio Studio Theme for Ableton Live!**
+
+This custom theme brings the Mordio brand colors (mint turquoise & lavender purple) directly into your DAW, creating a cohesive and inspiring production environment.
+
+---
+
+## 🎨 Theme Features
+
+- **Brand Colors Throughout:** Mint turquoise (#88bbb6) and lavender purple (#aa9cb8) across all UI elements
+- **Optimized VU Meters:** Beautiful progression from purple → turquoise → white (only red when clipping)
+- **Enhanced Contrast:** Improved readability for clip names and waveforms
+- **Consistent Design:** All buttons, alerts, and controls use Mordio brand colors
+- **Dark & Professional:** Perfect for long studio sessions
+
+---
+
+## 📋 Requirements
+
+- **Ableton Live 12** (any edition: Intro, Standard, Suite)
+- **macOS or Windows**
+- The `Mordio Studio.ask` theme file
+
+---
+
+## 🔧 Installation Instructions
+
+### Method 1: Quick Install (Recommended)
+
+**macOS:**
+
+1. **Download** the `Mordio Studio.ask` file
+2. **Copy the file** to:
+   ```
+   /Applications/Ableton Live 12 Suite.app/Contents/App-Resources/Themes/
+   ```
+   - Right-click on Ableton Live 12 in Applications
+   - Select "Show Package Contents"
+   - Navigate to `Contents/App-Resources/Themes/`
+   - Paste the `Mordio Studio.ask` file here (macOS will ask for your password)
+
+3. **Open Ableton Live**
+4. Go to **Preferences** (Cmd + ,)
+5. Click on **Look/Feel** tab
+6. Select **"Mordio Studio"** from the Theme dropdown
+
+**Done!** The theme should load immediately.
+
+---
+
+**Windows:**
+
+1. **Download** the `Mordio Studio.ask` file
+2. **Copy the file** to:
+   ```
+   C:\ProgramData\Ableton\Live 12\Resources\Themes\
+   ```
+   (Note: ProgramData is a hidden folder - you may need to enable "Show hidden files" in Windows Explorer)
+
+3. **Open Ableton Live**
+4. Go to **Preferences** (Ctrl + ,)
+5. Click on **Look/Feel** tab
+6. Select **"Mordio Studio"** from the Theme dropdown
+
+**Done!** The theme should load immediately.
+
+---
+
+### Method 2: User Themes Folder (Alternative)
+
+If you don't want to modify the Ableton app folder, you can also place themes in the user folder:
+
+**macOS:**
+```
+~/Library/Application Support/Ableton/Live 12/Resources/Themes/
+```
+
+**Windows:**
+```
+C:\Users\[YourUsername]\AppData\Roaming\Ableton\Live 12\Resources\Themes\
+```
+
+Then follow steps 3-6 from Method 1.
+
+---
+
+## 🔄 Updating the Theme
+
+If a new version is released:
+
+1. **Close Ableton Live completely**
+2. **Delete the old** `Mordio Studio.ask` file from the Themes folder
+3. **Copy the new version** into the same folder
+4. **Restart Ableton** and select the theme again
+
+---
+
+## ❓ Troubleshooting
+
+### Theme doesn't appear in the dropdown
+
+- Make sure Ableton Live is **completely closed** when copying the file
+- Check that the file is named exactly `Mordio Studio.ask` (with the space)
+- Verify you placed it in the correct Themes folder
+- Try restarting your computer
+
+### Theme loads but looks wrong
+
+- Try switching to another theme (like "Dark") and then back to "Mordio Studio"
+- Close and restart Ableton completely
+- Make sure you have the latest version of the theme file
+
+### Colors look different than expected
+
+- Ableton may cache themes - delete the file, restart Ableton, then copy it back in
+- Check your monitor calibration and brightness settings
+- Some UI elements may appear slightly different depending on your OS version
+
+---
+
+## 🎨 Color Palette Reference
+
+**Primary Colors:**
+- Mint Turquoise: `#88bbb6` - Highlights, active elements, VU meters (mid-range)
+- Lavender Purple: `#aa9cb8` - Secondary elements, buttons, VU meters (low)
+
+**Neutrals:**
+- White: `#ffffff` - Peak levels, text
+- Light Gray: `#d3d3d3` - UI elements, piano keys
+- Dark Purple-Gray: `#48404b` - Controls, surfaces
+- Deep Dark: `#212121` - Backgrounds
+
+**Alerts:**
+- Red: `#ff0a0a` - Clipping only (above 0dB)
+
+---
+
+## 💡 Tips for Best Experience
+
+- **VU Meters:** Watch them go from purple (low) → turquoise (medium) → white (loud) → red (clipping)
+- **Arm Buttons:** Now turquoise instead of red - matches the Mordio brand
+- **Back to Arrangement:** Lavender purple instead of orange
+- **Clip Colors:** The 16 clip colors are carefully chosen to work harmoniously together
+- **Waveforms:** Slightly brighter than default for better visibility in dark mode
+
+---
+
+## 🆘 Support
+
+If you have any issues installing or using the theme:
+
+1. Check this guide again carefully
+2. Reach out on **Patreon** (in the comments)
+3. Tag me on **Discord** in the theme channel
+4. Send me a message on **Instagram** (@mordiomusic)
+
+---
+
+## ⚠️ Important Notes
+
+- This theme is **exclusive to Mordio Patreon supporters** (all tiers)
+- Please **do not redistribute** or share publicly
+- The theme is designed for **Ableton Live 12** - compatibility with older versions is not guaranteed
+- Always keep a backup of the original Ableton themes in case you want to revert
+
+---
+
+## 🎵 Enjoy Your Studio Sessions!
+
+Thank you for supporting Mordio! This theme is crafted to make your production sessions more inspiring and visually cohesive with the Mordio universe.
+
+Now go make some music! 🚀
+
+---
+
+**Version:** 1.0
+**Last Updated:** November 2025
+**Created by:** Florian (Mordio)
