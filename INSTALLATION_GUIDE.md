@@ -1,18 +1,18 @@
 # Mordio Studio Theme - Installation Guide
 
-**Welcome to the Mordio Studio Theme for Ableton Live!**
+This guide will help you install the Mordio Studio theme for Ableton Live 12.
 
-This custom theme brings the Mordio brand colors (mint turquoise & lavender purple) directly into your DAW, creating a cohesive and inspiring production environment.
+The theme uses mint turquoise and lavender purple colors throughout the interface.
 
 ---
 
-## Theme Features
+## What's Included
 
-- **My Favorite Colors Throughout:** Mint turquoise (#88bbb6) and lavender purple (#aa9cb8) across all UI elements
-- **Optimized VU Meters:** Beautiful progression from purple → turquoise → white (only red when clipping)
-- **Enhanced Contrast:** Improved readability for clip names and waveforms
-- **Consistent Design:** All buttons, alerts, and controls use these colors consistently
-- **Dark & Professional:** Perfect for long studio sessions
+- Mint turquoise (#88bbb6) and lavender purple (#aa9cb8) color scheme
+- VU meter progression: purple → turquoise → white → red (clipping only)
+- Enhanced contrast for better readability
+- Consistent color usage across all UI elements
+- Dark background for comfortable long sessions
 
 ---
 
@@ -138,11 +138,11 @@ If a new version is released:
 
 ## Tips for Best Experience
 
-- **VU Meters:** Watch them go from purple (low) → turquoise (medium) → white (loud) → red (clipping)
-- **Arm Buttons:** Now turquoise instead of red - matches the Mordio brand
+- **VU Meters:** Progress from purple (low) → turquoise (medium) → white (loud) → red (clipping)
+- **Arm Buttons:** Turquoise instead of the default red
 - **Back to Arrangement:** Lavender purple instead of orange
-- **Clip Colors:** The 16 clip colors are carefully chosen to work harmoniously together
-- **Waveforms:** Slightly brighter than default for better visibility in dark mode
+- **Clip Colors:** 16 clip colors chosen to work well together
+- **Waveforms:** Slightly brighter than default for better visibility
 
 ---
 
@@ -151,8 +151,8 @@ If a new version is released:
 If you have any issues installing or using the theme:
 
 1. Check this guide again carefully
-2. Reach out on **Patreon** (in the comments)
-3. Tag me on **Discord** in the theme channel
+2. Open an issue on the GitHub repository
+3. Reach out on Discord or Patreon
 
 ---
 
@@ -164,11 +164,11 @@ If you have any issues installing or using the theme:
 
 ---
 
-## Enjoy Your Studio Sessions!
+## All Set!
 
-Thank you for supporting me! This theme was a fun little project, and I hope it makes your studio sessions a bit more enjoyable.
+The theme should now be active in Ableton Live 12.
 
-Now go make some music!
+Enjoy your studio sessions!
 
 ---
 
