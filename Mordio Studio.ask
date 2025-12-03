@@ -72,7 +72,7 @@
 		<ShadowLight Value="#212121cc" />
 		<DisplayBackground Value="#212121" />
 		<AbletonColor Value="#88bbb6" />
-		<WaveformColor Value="#48404bef" />
+		<WaveformColor Value="#212121ef" />
 		<DimmedWaveformColor Value="#aa9cb8df" />
 		<VelocityColor Value="#aa9cb8" />
 		<VelocitySelectedOrHovered Value="#88bbb6" />
