@@ -1,28 +1,46 @@
-# Mordio Studio Theme for Ableton Live 12
+# MORDIO Ableton Live Themes
 
-![Version](https://img.shields.io/badge/version-1.0-88bbb6)
-![Ableton](https://img.shields.io/badge/Ableton%20Live-12-aa9cb8)
+![Version](https://img.shields.io/badge/version-2.0-9BB0C2)
+![Ableton](https://img.shields.io/badge/Ableton%20Live-12-869AAC)
 ![Status](https://img.shields.io/badge/status-stable-success)
 
-**Mordio Studio Theme for Ableton Live 12**
-
-A custom Ableton theme built from scratch with my favorite colors (mint turquoise & lavender purple), optimized VU meters, enhanced contrast, and a stable, glitch-free experience.
+Two custom Ableton Live 12 themes by MORDIO. Designed for long studio sessions with high readability and consistent aesthetics.
 
 ---
 
-## Preview
+## Themes
 
-![Ableton Theme Screenshot](preview.png)
+### Mordio Aether (NEW)
+
+The Aether theme. Pure black background with a monochromatic blue/steel palette. Matches the MORDIO terminal and desktop aesthetic.
+
+### Mordio Studio (Classic)
+
+The original MORDIO theme. Dark background with mint turquoise and lavender purple accents.
 
 ---
 
-## Features
+## Color Palettes
 
-- **My Favorite Colors Throughout** - Mint turquoise (#88bbb6) and lavender purple (#aa9cb8) across all UI elements
-- **Optimized VU Meters** - Beautiful color progression: Purple → Turquoise → White (peak) → Red (clipping only)
-- **Enhanced Contrast** - High readability for long studio sessions, no more transparent buttons
-- **Stable & Tested** - Version 1.0 - no glitches, no color jumping, everything works
-- **Consistent Design** - All buttons, alerts, and controls use these colors consistently
+### Aether
+
+| Color | Hex | Usage |
+|-------|-----|-------|
+| Pure Black | `#000000` | Background |
+| Deep Blue | `#1a2a3a` | Surfaces, controls |
+| Steel Blue | `#9BB0C2` | Primary highlights, active elements |
+| Muted Blue | `#869AAC` | Secondary elements, scrollbars |
+| Light Gray | `#d4d5d9` | Text, foreground |
+
+### Studio (Classic)
+
+| Color | Hex | Usage |
+|-------|-----|-------|
+| Deep Dark | `#212121` | Background |
+| Dark Purple-Gray | `#48404b` | Surfaces, controls |
+| Mint Turquoise | `#88bbb6` | Primary highlights |
+| Lavender Purple | `#aa9cb8` | Secondary elements |
+| Light Gray | `#d3d3d3` | Text, foreground |
 
 ---
 
@@ -35,91 +53,38 @@ A custom Ableton theme built from scratch with my favorite colors (mint turquois
 
 ## Installation
 
-### Quick Install
-
 **macOS:**
 
-1. Download `Mordio Studio.ask` from [Releases](../../releases)
-2. Copy the file to:
+1. Download the `.ask` file from [Releases](../../releases)
+2. Copy to:
    ```
    /Applications/Ableton Live 12 Suite.app/Contents/App-Resources/Themes/
    ```
-   - Right-click Ableton Live 12 → "Show Package Contents"
-   - Navigate to `Contents/App-Resources/Themes/`
-   - Paste the file (macOS will ask for password)
-3. Open Ableton → Preferences (Cmd + ,) → Look/Feel
-4. Select "Mordio Studio" from the Theme dropdown
+   Right-click Ableton Live 12 > "Show Package Contents" > `Contents/App-Resources/Themes/`
+3. Open Ableton > Preferences (Cmd + ,) > Look/Feel
+4. Select the theme from the dropdown
 
 **Windows:**
 
-1. Download `Mordio Studio.ask` from [Releases](../../releases)
-2. Copy the file to:
+1. Download the `.ask` file from [Releases](../../releases)
+2. Copy to:
    ```
    C:\ProgramData\Ableton\Live 12\Resources\Themes\
    ```
-3. Open Ableton → Preferences (Ctrl + ,) → Look/Feel
-4. Select "Mordio Studio" from the Theme dropdown
+3. Open Ableton > Preferences (Ctrl + ,) > Look/Feel
+4. Select the theme from the dropdown
 
-**Full installation guide:** See [INSTALLATION_GUIDE.md](INSTALLATION_GUIDE.md)
-
----
-
-## Color Palette
-
-| Color | Hex | Usage |
-|-------|-----|-------|
-| Mint Turquoise | `#88bbb6` | Primary highlights, active elements, VU meters (mid) |
-| Lavender Purple | `#aa9cb8` | Secondary elements, buttons, VU meters (low) |
-| White | `#ffffff` | Peak levels, text |
-| Light Gray | `#d3d3d3` | UI elements, piano keys |
-| Dark Purple-Gray | `#48404b` | Controls, surfaces |
-| Deep Dark | `#212121` | Backgrounds |
-| Alert Red | `#ff0a0a` | Clipping only (above 0dB) |
-
----
-
-## Updates
-
-This is version 1.0 - stable and ready to use.
-
-If updates or improvements are released, they will appear in [Releases](../../releases). Check back occasionally for new versions.
-
----
-
-## Support
-
-If you have issues installing or using the theme:
-
-1. Check the [INSTALLATION_GUIDE.md](INSTALLATION_GUIDE.md)
-2. Open an [Issue](../../issues) on GitHub
-
----
-
-## Important
-
-- Please **do not redistribute** or share publicly - this is a gift for supporters
-- Designed for **Ableton Live 12** - older versions not guaranteed to work
-
----
-
-## About
-
-This was my first fun little coding project. Whenever I had some free time to chill, I'd tinker with it a bit, experiment with colors and UI elements, and with the help of AI, I managed to make it actually work properly.
-
-It started as a small experiment and turned into a little gift for the people who support me. Hope you enjoy it!
-
-Thank you for supporting the music, the content, and this journey.
+Full guide: [INSTALLATION_GUIDE.md](INSTALLATION_GUIDE.md)
 
 ---
 
 ## License
 
-It's yours, you have the file. But please don't share it randomly with everyone - that would be nice of you.
+Free to use. Made with love for the community.
 
 ---
 
-**Version:** 1.0
-**Last Updated:** November 2025
-**Created by:** Florian (Mordio)
-**Website:** [mordiomusic.com](https://mordiomusic.com)
-**Patreon:** [patreon.com/mordiomusic](https://patreon.com/mordiomusic)
+**Version:** 2.0
+**Last Updated:** March 2026
+**Created by:** MORDIO
+**Website:** [mordio.online](https://mordio.online)
