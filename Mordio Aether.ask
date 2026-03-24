@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <Ableton MajorVersion="5" MinorVersion="12.0_12120" SchemaChangeCount="4" Creator="Ableton Live 12.1d1" Revision="">
 	<Theme>
 		<ControlForeground Value="#D4D4D4" />
@@ -51,7 +51,7 @@
 		<Clip14 Value="#AA9CB8" />
 		<Clip15 Value="#D4D4D4" />
 		<Clip16 Value="#5B8A9A" />
-		<ClipText Value="#ffffff" />
+		<ClipText Value="#0C0B0E" />
 		<ClipBorder Value="#000000" />
 		<SceneContrast Value="#0A0A0A" />
 		<SelectionBackground Value="#AA9CB81A" />
