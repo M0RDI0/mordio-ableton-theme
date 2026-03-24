@@ -1,90 +1,63 @@
 # MORDIO Ableton Live Themes
 
-![Version](https://img.shields.io/badge/version-2.0-9BB0C2)
-![Ableton](https://img.shields.io/badge/Ableton%20Live-12-869AAC)
-![Status](https://img.shields.io/badge/status-stable-success)
+![Ableton](https://img.shields.io/badge/Ableton%20Live-12-AA9CB8)
+![Themes](https://img.shields.io/badge/themes-2-5B8A9A)
 
-Two custom Ableton Live 12 themes by MORDIO. Designed for long studio sessions with high readability and consistent aesthetics.
-
----
-
-## Themes
-
-### Mordio Aether (NEW)
-
-The Aether theme. Pure black background with a monochromatic blue/steel palette. Matches the MORDIO terminal and desktop aesthetic.
-
-### Mordio Studio (Classic)
-
-The original MORDIO theme. Dark background with mint turquoise and lavender purple accents.
+Two custom dark themes for Ableton Live 12. Pick your flavor.
 
 ---
 
-## Color Palettes
+## Mordio Aether
 
-### Aether
+Pure black. Lila and teal accents. Matches the [mordio.online](https://mordio.online) aesthetic.
 
-| Color | Hex | Usage |
-|-------|-----|-------|
-| Pure Black | `#000000` | Background |
-| Deep Blue | `#1a2a3a` | Surfaces, controls |
-| Steel Blue | `#9BB0C2` | Primary highlights, active elements |
-| Muted Blue | `#869AAC` | Secondary elements, scrollbars |
-| Light Gray | `#d4d5d9` | Text, foreground |
+| | Hex | Role |
+|---|-----|------|
+| ![#000000](https://placehold.co/15x15/000000/000000) | `#000000` | Background |
+| ![#111111](https://placehold.co/15x15/111111/111111) | `#111111` | Surfaces |
+| ![#AA9CB8](https://placehold.co/15x15/AA9CB8/AA9CB8) | `#AA9CB8` | Primary accent (lila) |
+| ![#5B8A9A](https://placehold.co/15x15/5B8A9A/5B8A9A) | `#5B8A9A` | Secondary accent (teal) |
+| ![#D4D4D4](https://placehold.co/15x15/D4D4D4/D4D4D4) | `#D4D4D4` | Text |
 
-### Studio (Classic)
-
-| Color | Hex | Usage |
-|-------|-----|-------|
-| Deep Dark | `#212121` | Background |
-| Dark Purple-Gray | `#48404b` | Surfaces, controls |
-| Mint Turquoise | `#88bbb6` | Primary highlights |
-| Lavender Purple | `#aa9cb8` | Secondary elements |
-| Light Gray | `#d3d3d3` | Text, foreground |
+**Download:** [`Mordio Aether.ask`](Mordio%20Aether.ask)
 
 ---
 
-## Requirements
+## Mordio Studio
 
-- **Ableton Live 12** (Intro, Standard, or Suite)
-- **macOS or Windows**
+The original. Dark gray base with mint turquoise and lavender purple.
+
+| | Hex | Role |
+|---|-----|------|
+| ![#212121](https://placehold.co/15x15/212121/212121) | `#212121` | Background |
+| ![#48404b](https://placehold.co/15x15/48404b/48404b) | `#48404b` | Surfaces |
+| ![#88bbb6](https://placehold.co/15x15/88bbb6/88bbb6) | `#88bbb6` | Primary accent (mint) |
+| ![#aa9cb8](https://placehold.co/15x15/aa9cb8/aa9cb8) | `#aa9cb8` | Secondary accent (lavender) |
+| ![#d3d3d3](https://placehold.co/15x15/d3d3d3/d3d3d3) | `#d3d3d3` | Text |
+
+**Download:** [`Mordio Studio.ask`](Mordio%20Studio.ask)
 
 ---
 
 ## Installation
 
 **macOS:**
-
-1. Download the `.ask` file from [Releases](../../releases)
-2. Copy to:
-   ```
-   /Applications/Ableton Live 12 Suite.app/Contents/App-Resources/Themes/
-   ```
-   Right-click Ableton Live 12 > "Show Package Contents" > `Contents/App-Resources/Themes/`
-3. Open Ableton > Preferences (Cmd + ,) > Look/Feel
-4. Select the theme from the dropdown
+1. Download the `.ask` file
+2. Right-click Ableton Live 12 > Show Package Contents > `Contents/App-Resources/Themes/`
+3. Paste the file
+4. Ableton > Preferences (Cmd + ,) > Look/Feel > Select theme
 
 **Windows:**
-
-1. Download the `.ask` file from [Releases](../../releases)
-2. Copy to:
-   ```
-   C:\ProgramData\Ableton\Live 12\Resources\Themes\
-   ```
-3. Open Ableton > Preferences (Ctrl + ,) > Look/Feel
-4. Select the theme from the dropdown
-
-Full guide: [INSTALLATION_GUIDE.md](INSTALLATION_GUIDE.md)
+1. Download the `.ask` file
+2. Copy to `C:\ProgramData\Ableton\Live 12\Resources\Themes\`
+3. Ableton > Preferences (Ctrl + ,) > Look/Feel > Select theme
 
 ---
 
-## License
+## Requirements
 
-Free to use. Made with love for the community.
+Ableton Live 12 (Intro, Standard, or Suite). macOS or Windows.
 
 ---
 
-**Version:** 2.0
-**Last Updated:** March 2026
-**Created by:** MORDIO
-**Website:** [mordio.online](https://mordio.online)
+**Created by [MORDIO](https://mordio.online)**
