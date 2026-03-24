@@ -9,7 +9,7 @@ Two custom dark themes for Ableton Live 12. Pick your flavor.
 
 ## Mordio Aether
 
-Pure black. Lila and teal accents. Matches the [mordio.online](https://mordio.online) aesthetic.
+Pure black. Lila and teal accents. Very dark, very clean.
 
 | | Hex | Role |
 |---|-----|------|
@@ -60,4 +60,4 @@ Ableton Live 12 (Intro, Standard, or Suite). macOS or Windows.
 
 ---
 
-**Created by [MORDIO](https://mordio.online)**
+**Created by MORDIO**
