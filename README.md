@@ -2,27 +2,27 @@
 
 Three custom dark themes for Ableton Live 12.
 
-## Aether Mono
+## Aether
+
+The original MORDIO look. Dark base, lavender accents.
+
+![Aether](aether.png)
+
+## Mono
 
 Monochrome. Grey scales from background to selection, with a single lavender accent. VU meters fade grey to lavender, red only when you clip.
 
-![Aether Mono](preview-mono.png)
+![Mono](mono.png)
 
-## Mordio Aether
+## Studio
 
-Pure black. Lila and teal accents.
+Higher-contrast variant. Turquoise and lavender accents.
 
-![Mordio Aether](preview.png)
-
-## Mordio Studio
-
-Dark gray base. Mint and lavender accents.
-
-![Mordio Studio](preview-studio.png)
+![Studio](studio.png)
 
 ## Installation
 
-1. Download the `.ask` file from [Releases](https://github.com/M0RDI0/mordio-ableton-theme/releases) or straight from this repo
+1. Download the `.ask` file you want from this repo, or get all three free in one pack: https://mordio.online/shop/ableton-themes-essentials
 2. Copy it into your user Themes folder (no admin rights needed):
    - **macOS:** `~/Library/Application Support/Ableton/Live 12/Resources/Themes/`
    - **Windows:** `C:\Users\YOURNAME\AppData\Roaming\Ableton\Live 12\Resources\Themes\`
