@@ -23,9 +23,9 @@ Higher-contrast variant. Turquoise and lavender accents.
 ## Installation
 
 1. Download the `.ask` file you want from this repo, or get all three free in one pack: https://mordio.online/shop/ableton-themes-essentials
-2. Copy it into your user Themes folder (no admin rights needed):
-   - **macOS:** `~/Library/Application Support/Ableton/Live 12/Resources/Themes/`
-   - **Windows:** `C:\Users\YOURNAME\AppData\Roaming\Ableton\Live 12\Resources\Themes\`
+2. Copy it into your Ableton User Library Themes folder (no admin rights needed, create the Themes folder if it isn't there):
+   - **macOS:** `~/Music/Ableton/User Library/Themes/`
+   - **Windows:** `Documents\Ableton\User Library\Themes\`
 3. Ableton > Preferences > Display (Look/Feel) > select the theme
 
 Requires Ableton Live 12. Works with Intro, Standard and Suite.
